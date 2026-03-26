@@ -4,7 +4,7 @@ API de gerenciamento de logística e entregas desenvolvida com Node.js, Express 
 
 ---
 
-## 🇵🇹 Português
+## Português
 
 ### ✨ Funcionalidades
 - **Gestão de Usuários**: Cadastro e login com diferentes níveis de acesso (`customer`, `sale`).
@@ -30,7 +30,7 @@ API de gerenciamento de logística e entregas desenvolvida com Node.js, Express 
 
 ---
 
-## 🇺🇸 English
+## English
 
 ### ✨ Features
 - **User Management**: Registration and login with access levels (`customer`, `sale`).
